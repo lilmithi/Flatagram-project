@@ -3,25 +3,25 @@
     {
       "id": 1,
       "title": "Woofing those bugs away",
-      "likes": 0,
-      "image": "./assets/coder-dog.png"
+      "likes": 12,
+      "image": "https://images.dog.ceo/breeds/groenendael/n02105056_2798.jpg"
     }
   ],
   "comments": [
     {
-      "id": 1,
       "imageId": 1,
-      "content": "What a cute dog!"
+      "content": "Cuuutttteee!!!",
+      "id": 1
     },
     {
-      "id": 2,
       "imageId": 1,
-      "content": "He's got a nose for bugs!"
+      "content": "Looking good ;)",
+      "id": 2
     },
     {
-      "id": 3,
       "imageId": 1,
-      "content": "Woof!"
+      "content": "So innocent ;(",
+      "id": 3
     }
   ]
 }
